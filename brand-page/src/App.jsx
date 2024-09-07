@@ -1,7 +1,7 @@
 import { useState } from "react";
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
-// import './App.css'
+import "./App.css";
 
 function App() {
   return (
@@ -16,6 +16,7 @@ function App() {
           <li href="#">About</li>
           <li href="#">Contact</li>
         </ul>
+        <button>login</button>
       </nav>
     </>
   );
